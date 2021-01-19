@@ -4,6 +4,8 @@ import random
 import datetime as dt
 import smtplib
 
+email = "your_email"
+password = "your_password"
 
 # import letters to use 
 letters = ['letters/letter_1.txt', 'letters/letter_2.txt',
