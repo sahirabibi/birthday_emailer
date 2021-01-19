@@ -4,8 +4,8 @@ import random
 import datetime as dt
 import smtplib
 
-# create a df, csv with pandas to store birthdays
-email = "placeholder@email.com"
+
+# import letters to use 
 letters = ['letters/letter_1.txt', 'letters/letter_2.txt',
            'letters/letter_3.txt', 'letters/letter_4.txt']
 
